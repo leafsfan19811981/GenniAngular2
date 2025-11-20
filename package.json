@@ -1,4 +1,9 @@
-{
+{"devDependencies": {
+  "@angular/cli": "^17.3.0",
+  "@angular/compiler-cli": "^17.3.0",
+  "typescript": "~5.2.2"
+}
+
   "name": "genni-angular",
   "version": "0.0.1",
   "scripts": {
