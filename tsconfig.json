@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "useDefineForClassFields": false,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
